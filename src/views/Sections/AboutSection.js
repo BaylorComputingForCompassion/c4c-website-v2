@@ -25,15 +25,16 @@ function AboutSection() {
             <p>
               <b>
                 Computing for Compassion is a student-led organization whose
-                mission is to help &amp; assist other compassion based organizations
-                through the appropriate application of technology and empower
-                our communities through computer science education.
+                mission is to serve compassion-based organizations through the
+                appropriate application of technology. We help provide technological
+                solutions and education to local schools, non-profits, and churches
+                in the Waco, TX community.
               </b>
             </p>
             <p>
               <b>
                 We are based out of Baylor University in Waco, TX. Our services
-                are focused on the serving the surrounding communities, but
+                are focused on serving the surrounding communities, but
                 we're hoping to expand and establish new chapters in other
                 universities around Texas soon.
               </b>

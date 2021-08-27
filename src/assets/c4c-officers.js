@@ -1,44 +1,44 @@
 export default [
 	{ 
-		name: "Meghan Bibb",
+		name: "Brooklynn Stone",
 		title: "President",
 		major: "Computer Science Senior",
 		school: "Baylor University",
-		linkedin: "https://www.linkedin.com/in/meghanbibb/",
-		github: "https://github.com/MeghanBibb",
-		image: "Meghan.jpg"
-	},
-	{ 
-		name: "Brooklynn Stone",
-		title: "Vice President",
-		major: "Computer Science Junior",
-		school: "Baylor University",
 		linkedin: "https://www.linkedin.com/in/brooklynn-stone/",
 		github: "https://github.com/brooklynnStone1",
-		image: "Brooklynn.jpeg"
+		image: "Brooklynn.JPG"
+	},
+	{
+		name: "Jacob Key",
+		title: "Vice President",
+		major: "Marketing and MIS Senior",
+		school: "Baylor University",
+		linkedin: "https://www.linkedin.com/in/jacob-key/",
+		github: undefined,
+		image: "Jacob.jpg"
 	},
 	{ 
 		name: "Andrew Ammentorp",
 		title: "Secretary",
-		major: "Computer Science Junior",
+		major: "Computer Science Senior",
 		school: "Baylor University",
 		linkedin: "https://www.linkedin.com/in/andrew-ammentorp-bb00a21b9/",
 		github: "https://github.com/ammentorp2",
 		image: "Andrew.jpg"
 	},
 	{ 
-		name: "Citlally Ruiz",
+		name: "John Spence",
 		title: "Treasurer",
-		major: "Computer Science Sophomore",
+		major: "Computer Science Junior",
 		school: "Baylor University",
-		linkedin: "https://www.linkedin.com/in/citlally-ruiz-29429119a/",
+		linkedin: undefined,
 		github: undefined,
 		image: undefined
 	},
 	{ 
 		name: "Miranda Montroy",
 		title: "IT Projects Manager",
-		major: "Management Information Systems Junior",
+		major: "Management Information Systems Senior",
 		school: "Baylor University",
 		linkedin: "https://www.linkedin.com/in/miranda-montroy-78107117b/",
 		github: undefined,
@@ -47,7 +47,7 @@ export default [
 	{ 
 		name: "Ashley Lu Couch",
 		title: "Head of Philanthropy",
-		major: "Computer Science Junior",
+		major: "Computer Science Senior",
 		school: "Baylor University",
 		linkedin: "https://www.linkedin.com/in/ashleyluellen/",
 		github: "https://github.com/AshleyLuEllen",
@@ -56,19 +56,10 @@ export default [
 	{ 
 		name: "Zachary Scherer",
 		title: "Wacode Coordinator",
-		major: "Computer Science Junior",
+		major: "Spanish Junior",
 		school: "Baylor University",
 		linkedin: "https://www.linkedin.com/in/zachary-scherer-27470b183/",
 		github: "https://github.com/ScheZach",
 		image: "Zachary.jpg"
-	},
-	{ 
-		name: "Jacob Key",
-		title: "Marketing Chair",
-		major: "Marketing and MIS Junior",
-		school: "Baylor University",
-		linkedin: "https://www.linkedin.com/in/jacob-key/",
-		github: undefined,
-		image: undefined
 	}
 ];
