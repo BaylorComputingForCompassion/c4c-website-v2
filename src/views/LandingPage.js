@@ -14,6 +14,7 @@ import AboutSection from "./Sections/AboutSection";
 import TeamSection from "./Sections/TeamSection";
 import ContactSection from "./Sections/ContactSection";
 import ProjectSection from "./Sections/ProjectSection";
+import PreviousMemberList from "./Sections/PreviousTeams";
 
 function LandingPage() {
   React.useEffect(() => {
@@ -40,6 +41,9 @@ function LandingPage() {
         </div>
         <div id="team">
           <TeamSection />
+        </div>
+        <div id="previous-teams">
+          <PreviousMemberList />
         </div>
         <div id="contact">
           <ContactSection />

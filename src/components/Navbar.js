@@ -145,6 +145,14 @@ function MainNavbar() {
               </NavItem>
               <NavItem>
                 <NavLink
+                  to="/index#previous-teams"
+                  onClick={e => smoothScroll(e, "previous-teams")}
+                >
+                  Past Teams
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink
                   to="/index#contact"
                   onClick={e => smoothScroll(e, "contact")}
                 >
@@ -176,7 +184,7 @@ function MainNavbar() {
               </NavItem>
               <NavItem>
                 <NavLink
-                  href="https://www.instagram.com/baylorc4c/?hl=en"
+                  href="https://www.instagram.com/computing4compassion/"
                   target="_blank"
                   id="instagram-tooltip"
                 >
@@ -189,7 +197,7 @@ function MainNavbar() {
               </NavItem>
               <NavItem>
                 <NavLink
-                  href="https://twitter.com/baylorc4c"
+                  href="https://twitter.com/comput4compas"
                   target="_blank"
                   id="twitter-tooltip"
                 >
