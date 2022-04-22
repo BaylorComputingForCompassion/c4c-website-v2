@@ -4,8 +4,8 @@
 
 ### Social Media
 
-Twitter: <https://twitter.com/BaylorC4C>
+Twitter: <https://twitter.com/comput4compas/>
 
-Facebook: <https://twitter.com/comput4compas/>
+Facebook: <https://www.facebook.com/computingforcompassion/>
 
 Instagram: <https://www.instagram.com/computing4compassion/>
