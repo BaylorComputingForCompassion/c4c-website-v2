@@ -6,6 +6,6 @@
 
 Twitter: <https://twitter.com/BaylorC4C>
 
-Facebook: <https://www.facebook.com/computingforcompassion/>
+Facebook: <https://twitter.com/comput4compas/>
 
-Instagram: <https://www.instagram.com/baylorc4c/?hl=en>
+Instagram: <https://www.instagram.com/computing4compassion/>
